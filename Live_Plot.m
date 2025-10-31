@@ -1,5 +1,5 @@
 % --- Configuration ---
-port = "COM4";
+port = "COM5";
 baud = 9600;
 s = serialport(port, baud);
 flush(s);
