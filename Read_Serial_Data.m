@@ -1,5 +1,5 @@
 % --- Configuration ---
-port = "COM4"; % Update to match your Arduino port
+port = "COM5"; % Update to match your Arduino port
 baud = 9600;
 
 % --- Open Serial Connection ---
